@@ -1,4 +1,4 @@
-# proj2_1.py & proj2_2.py
+# pose_estimation.py
 
 To estimate the position of camera by computing the rotation and translation between the camera and a paper
 
